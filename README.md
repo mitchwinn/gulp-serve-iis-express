@@ -5,7 +5,7 @@ IIS Express server plugin for gulp. This repository is forked off of [gulp-iis-e
 Install `gulp-serve-iis-express` as a development dependency:
 
 ```shell
-npm install gulp-iis-express --save-dev
+npm install gulp-serve-iis-express --save-dev
 ```
 
 ## Usage
