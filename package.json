@@ -1,6 +1,6 @@
 {
   "name": "gulp-serve-iis-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp package that will serve a site through IIS Express",
   "main": "./lib/index.js",
   "scripts": {
