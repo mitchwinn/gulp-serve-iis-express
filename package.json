@@ -22,9 +22,8 @@
   },
   "homepage": "https://github.com/mitchwinn/gulp-serve-iis-express#readme",
   "dependencies": {
-		"gulp-open": "^0.3.2",
-		"gulp": "^3.8.11",
-		"gulp-shell": "^0.3.0",
-		"gulp-util": "^3.0.4"
+    "gulp-open": "^3.0.1",
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.7.1"
   }
 }
