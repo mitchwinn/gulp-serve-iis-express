@@ -1,6 +1,6 @@
 {
   "name": "gulp-serve-iis-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp package that will serve a site through IIS Express",
   "main": "./lib/index.js",
   "scripts": {
@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/mitchwinn/gulp-serve-iis-express#readme",
   "dependencies": {
-		"gulp-open": "^0.3.2",
-		"gulp": "^3.8.11",
-		"gulp-shell": "^0.3.0",
-		"gulp-util": "^3.0.4"
+    "gulp": "^3.8.11",
+    "gulp-open": "^0.3.2",
+    "gulp-shell": "^0.7.1",
+    "gulp-util": "^3.0.4"
   }
 }
